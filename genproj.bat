@@ -1,0 +1,1 @@
+C:/EpicGames/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/git_repository/BullCow/BullCowGame.uproject" -game -2019 -rocket -progress -log="D:\git_repository\BullCow/Saved/Logs/UnrealVersionSelector-2020.06.27-11.42.35.log"
